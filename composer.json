@@ -3,10 +3,10 @@
     "description": "desc",
     "type": "library",
     "require": {
-        "dompdf/dompdf": "dev-master"
+        "dompdf/dompdf": "^v1.1.1"
     },
     "require-dev": {
-        "phpunit/phpunit": "9.5.x-dev"
+        "phpunit/phpunit": "^9.5.10"
     },
     "license": "MIT",
     "autoload": {
@@ -20,5 +20,5 @@
             "email": "web@derin.ru"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
